@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Chivo";
+  src:
+    local("ChivoMono-Regular.ttf"),
+    url("./assets/fonts/ChivoMono-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Urbanist";
+  src:
+    local("Urbanist-SemiBold.ttf"),
+    url("./assets/fonts/Urbanist-SemiBold.ttf") format("truetype");
+}
+
+.grid__column {
+  @apply border-[2px] border-dotted border-b-0 border-t-0  border-[#0000001a]
+}
+.hover__b {
+  @apply absolute -bottom-1 left-0 h-0.5 w-0 bg-black transition-all duration-300 group-hover:w-full;
+}
+.flair {
+  width: 100px;
+  height: 100px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+}
