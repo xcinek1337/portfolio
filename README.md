@@ -1,8 +1,4 @@
-# React + Vite
+# Interactive Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![portf](https://github.com/user-attachments/assets/5d3909cc-7719-4136-85b1-28a0f0cf7940)
+[Page](https://66df30d9f4514f4f79783790--stalwart-rugelach-ee651e.netlify.app/)
